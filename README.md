@@ -8,9 +8,9 @@
 
 ### Authors
 
+- [Rohith Kumar Sangati](https://www.github.com/RohithSangati)
 - [Pranay Ramagiri](https://www.github.com/pranaydbox)
 - [Raghunadh Narne](https://www.github.com/raghunadhNarne)
-- [Rohith Kumar Sangati](https://www.github.com/RohithSangati)
 
 
 ## Features
